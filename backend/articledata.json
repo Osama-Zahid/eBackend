@@ -1,0 +1,13 @@
+[
+{
+  "model": "article.article",
+  "pk": "c41dbffd-f671-4bd3-89b5-6a4f7f5ef648",
+  "fields": {
+    "user": 1,
+    "title": "Dummy Article title",
+    "content": "<p>Dummy Article Content</p>",
+    "created": "2021-06-22T03:07:19.795Z",
+    "tags": []
+  }
+}
+]

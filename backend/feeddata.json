@@ -1,0 +1,17 @@
+[
+{
+  "model": "feed.mumble",
+  "pk": "7e586962-c70f-4fa7-b536-6e7a24c6a587",
+  "fields": {
+    "parent": null,
+    "remumble": null,
+    "user": 1,
+    "content": "<p>Dummy Mumble Post</p>",
+    "image": "",
+    "vote_rank": 0,
+    "comment_count": 0,
+    "share_count": 0,
+    "created": "2021-06-22T03:07:37.503Z"
+  }
+}
+]
