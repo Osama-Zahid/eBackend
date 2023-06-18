@@ -170,33 +170,6 @@ Run the development server
 # run django development server
 python manage.py runserver
 ```
-## Reviewers 
-
-After submitting your PR, please tag reviewer(s) in your PR message. You can tag anyone below for the following.
-
-<br/>
-
-- **Markdown, Documentation, Email templates:**
-
-  [@Mehdi - MidouWebDev](https://github.com/MidouWebDev)
-
-  [@Abhi Vempati](https://github.com/abhivemp/)
-
-#
-
-- **API, Backend, Databases, Dependencies:**
-
-     --> *Choose two reviewers :*
-
-    [@Dennis Ivy](https://github.com/divanov11)
-    
-    [@Praveen Malethia](https://github.com/PraveenMalethia)
-
-    [@Abhi Vempati](https://github.com/abhivemp)
-
-    [@Bashiru Bukari](https://github.com/bashiru98)
-
-    [@Cody Seibert](https://github.com/codyseibert)
 
 ## Explore admin panel for model data or instances
 
